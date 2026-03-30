@@ -1,3 +1,0 @@
-Hii, my name is Mahesh .
-I'm from Pune .
-I enrolled in the course of Java full Stack development.
